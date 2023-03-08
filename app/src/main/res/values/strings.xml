@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Agenda_Notas</string>
+    <string name="hint_titulo">Titulo:</string>
+    <string name="hint_descripcion">Descripcion:</string>
+    <string name="btn_guarda">Guardar Nota</string>
+    <string name="menu_nuevo">Nueva Nota</string>
+</resources>
